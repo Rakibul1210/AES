@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660520838 source:d:\semester04\411_information_security\codes\aes\main.cpp
+	<iostream>
+	<math.h>
+
